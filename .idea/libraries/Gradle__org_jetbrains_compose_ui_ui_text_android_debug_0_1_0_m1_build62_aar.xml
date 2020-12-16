@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.ui:ui-text-android-debug:0.1.0-m1-build62@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9c03edf7558c6786079ccccb1ee465fe/ui-text-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9c03edf7558c6786079ccccb1ee465fe/ui-text-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9c03edf7558c6786079ccccb1ee465fe/ui-text-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-text-android-debug/0.1.0-m1-build62/11d785272fa079fead46a87f1658d540e6a856b8/ui-text-android-debug-0.1.0-m1-build62-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
