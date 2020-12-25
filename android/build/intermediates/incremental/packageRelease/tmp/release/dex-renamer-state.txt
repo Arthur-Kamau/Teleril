@@ -1,0 +1,4 @@
+#Fri Dec 25 22:38:11 EAT 2020
+base.0=/home/kamau/Development/Projects/Teleril/android/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

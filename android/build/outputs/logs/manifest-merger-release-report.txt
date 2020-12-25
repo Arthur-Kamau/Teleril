@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:2:1-16:12
+MERGED from [:common] /home/kamau/Development/Projects/Teleril/common/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [org.jetbrains.compose.material:material-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/dc200c8e0352c064c2124ab883c69c4a/material-release/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.foundation:foundation-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/ab50c452bb4b93e73b4196e03f8550df/foundation-release/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.animation:animation-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/bd003e1764f5b62489d7a2052458f42e/animation-release/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.foundation:foundation-layout-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/70359d27b7aef4c3c7344199a5fae6aa/foundation-layout-release/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.foundation:foundation-text-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/5a0aaad70a4a3a32dd8cf0e3b6c99265/foundation-text-release/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.material:material-icons-core-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/6a9b4d164b8a538b857829b0a57caca5/material-icons-core-release/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.ui:ui-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/bf3f3e9c8931e58443e1165a55dac703/ui-release/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.ui:ui-text-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/6273bd8dc4078a997dfa8274c58d3d44/ui-text-release/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.runtime:runtime-saved-instance-state-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/231b1f3b9a947f8d0b545b6e096f2fce/runtime-saved-instance-state-release/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.animation:animation-core-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/9f35680d135b5798ea08420c3aacba29/animation-core-release/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.ui:ui-graphics-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/2b39c8fe9de19877e333ddf628c8e921/ui-graphics-release/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.ui:ui-unit-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/0ad0a8f4b8588609876e45d96d02d209/ui-unit-release/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.ui:ui-geometry-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/c7208feafc5e8c630ca6972b7ad3886f/ui-geometry-release/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.ui:ui-util-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/80784f4997eed29ec24661d9432b053b/ui-util-release/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.runtime:runtime-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/bcffa266f4f020b214f5ac0722fd37d5/runtime-release/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.runtime:runtime-dispatch-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/63dac25c928801b8e02dcf068bfc979e/runtime-dispatch-release/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.1] /home/kamau/.gradle/caches/transforms-2/files-2.1/9d9c0ffd8b6a8e32c8bbd28afc6412e3/core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha01] /home/kamau/.gradle/caches/transforms-2/files-2.1/bdbb8c0b7352f87a0627488a4c11e230/appcompat-1.3.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.0-alpha07] /home/kamau/.gradle/caches/transforms-2/files-2.1/6e044fb0d52aaeb34e5146fbb331ce96/fragment-1.3.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/ac7f1fe0f01af58327701b1ec5e5f416/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.0-alpha07] /home/kamau/.gradle/caches/transforms-2/files-2.1/6f104d3b1e7710704f12fc0eedfa5896/activity-1.2.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/dfbc13c116eea85a8c9e1552df72af22/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/b93805d359ccbbf2349f441cd43ee463/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha01] /home/kamau/.gradle/caches/transforms-2/files-2.1/ad1f2c0352011a02e9f33df61207f5b8/appcompat-resources-1.3.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/5a3d74bca5fc118f2afd25cd8cd3d5c5/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/552f5fedc6184cc00a6b1d9eb32bdd59/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/43eadd9957d02f16cae1deebb160faae/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/ad0a5b6ce194b5e91e82af014068b776/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0-alpha01] /home/kamau/.gradle/caches/transforms-2/files-2.1/de701201a415c3f6be45e75585090474/core-1.5.0-alpha01/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/ac58184b906390719ba4ec45f32be5ef/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha06] /home/kamau/.gradle/caches/transforms-2/files-2.1/015d339c1e6fbd67615f0cf3fbcd6bcf/lifecycle-viewmodel-savedstate-2.3.0-alpha06/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha06] /home/kamau/.gradle/caches/transforms-2/files-2.1/7d339792ac20ef3146da18c728f43a71/lifecycle-viewmodel-2.3.0-alpha06/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] /home/kamau/.gradle/caches/transforms-2/files-2.1/84e8bde954febe7cdf59c87d7c751698/savedstate-1.1.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/96da85bbac13a4db81dbae5a2b4eb289/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha06] /home/kamau/.gradle/caches/transforms-2/files-2.1/c50b7bf9dc349cd3a2fc760cdeeaaf3f/lifecycle-runtime-2.3.0-alpha06/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/e83bea78c0286a0f308910ff131371df/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha06] /home/kamau/.gradle/caches/transforms-2/files-2.1/eee71e715cb8fbe81eca24ff0ec44c25/lifecycle-livedata-core-2.3.0-alpha06/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/5cf8759534de5f5f9af74b3788c62f42/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/5354edc4c971a03d62b23282046dc582/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:2:1-16:12
+	package
+		ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:2:71-108
+		INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml
+		INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml
+		ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:2:1-16:12
+		INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml
+		ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:2:1-16:12
+		INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:2:12-70
+application
+ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:3:5-15:19
+MERGED from [androidx.core:core:1.5.0-alpha01] /home/kamau/.gradle/caches/transforms-2/files-2.1/de701201a415c3f6be45e75585090474/core-1.5.0-alpha01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0-alpha01] /home/kamau/.gradle/caches/transforms-2/files-2.1/de701201a415c3f6be45e75585090474/core-1.5.0-alpha01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/ac58184b906390719ba4ec45f32be5ef/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/ac58184b906390719ba4ec45f32be5ef/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0-alpha01] /home/kamau/.gradle/caches/transforms-2/files-2.1/de701201a415c3f6be45e75585090474/core-1.5.0-alpha01/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:7:13-39
+	android:label
+		ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:4:13-36
+	android:icon
+		ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:5:13-45
+	android:allowBackup
+		ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:6:13-40
+	android:theme
+		ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:8:13-69
+activity#org.araizen.teleril.android.MainActivity
+ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:9:13-14:20
+	android:name
+		ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:9:23-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:11:17-68
+	android:name
+		ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:12:17-76
+	android:name
+		ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml:12:27-74
+uses-sdk
+INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml
+INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml
+MERGED from [:common] /home/kamau/Development/Projects/Teleril/common/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:common] /home/kamau/Development/Projects/Teleril/common/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [org.jetbrains.compose.material:material-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/dc200c8e0352c064c2124ab883c69c4a/material-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.material:material-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/dc200c8e0352c064c2124ab883c69c4a/material-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.foundation:foundation-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/ab50c452bb4b93e73b4196e03f8550df/foundation-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.foundation:foundation-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/ab50c452bb4b93e73b4196e03f8550df/foundation-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.animation:animation-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/bd003e1764f5b62489d7a2052458f42e/animation-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.animation:animation-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/bd003e1764f5b62489d7a2052458f42e/animation-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.foundation:foundation-layout-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/70359d27b7aef4c3c7344199a5fae6aa/foundation-layout-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.foundation:foundation-layout-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/70359d27b7aef4c3c7344199a5fae6aa/foundation-layout-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.foundation:foundation-text-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/5a0aaad70a4a3a32dd8cf0e3b6c99265/foundation-text-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.foundation:foundation-text-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/5a0aaad70a4a3a32dd8cf0e3b6c99265/foundation-text-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.material:material-icons-core-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/6a9b4d164b8a538b857829b0a57caca5/material-icons-core-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.material:material-icons-core-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/6a9b4d164b8a538b857829b0a57caca5/material-icons-core-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/bf3f3e9c8931e58443e1165a55dac703/ui-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/bf3f3e9c8931e58443e1165a55dac703/ui-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-text-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/6273bd8dc4078a997dfa8274c58d3d44/ui-text-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-text-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/6273bd8dc4078a997dfa8274c58d3d44/ui-text-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.runtime:runtime-saved-instance-state-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/231b1f3b9a947f8d0b545b6e096f2fce/runtime-saved-instance-state-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.runtime:runtime-saved-instance-state-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/231b1f3b9a947f8d0b545b6e096f2fce/runtime-saved-instance-state-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.animation:animation-core-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/9f35680d135b5798ea08420c3aacba29/animation-core-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.animation:animation-core-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/9f35680d135b5798ea08420c3aacba29/animation-core-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-graphics-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/2b39c8fe9de19877e333ddf628c8e921/ui-graphics-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-graphics-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/2b39c8fe9de19877e333ddf628c8e921/ui-graphics-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-unit-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/0ad0a8f4b8588609876e45d96d02d209/ui-unit-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-unit-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/0ad0a8f4b8588609876e45d96d02d209/ui-unit-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-geometry-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/c7208feafc5e8c630ca6972b7ad3886f/ui-geometry-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-geometry-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/c7208feafc5e8c630ca6972b7ad3886f/ui-geometry-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-util-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/80784f4997eed29ec24661d9432b053b/ui-util-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.ui:ui-util-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/80784f4997eed29ec24661d9432b053b/ui-util-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.runtime:runtime-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/bcffa266f4f020b214f5ac0722fd37d5/runtime-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.runtime:runtime-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/bcffa266f4f020b214f5ac0722fd37d5/runtime-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.runtime:runtime-dispatch-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/63dac25c928801b8e02dcf068bfc979e/runtime-dispatch-release/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.runtime:runtime-dispatch-android:0.1.0-m1-build62] /home/kamau/.gradle/caches/transforms-2/files-2.1/63dac25c928801b8e02dcf068bfc979e/runtime-dispatch-release/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.1] /home/kamau/.gradle/caches/transforms-2/files-2.1/9d9c0ffd8b6a8e32c8bbd28afc6412e3/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /home/kamau/.gradle/caches/transforms-2/files-2.1/9d9c0ffd8b6a8e32c8bbd28afc6412e3/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha01] /home/kamau/.gradle/caches/transforms-2/files-2.1/bdbb8c0b7352f87a0627488a4c11e230/appcompat-1.3.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha01] /home/kamau/.gradle/caches/transforms-2/files-2.1/bdbb8c0b7352f87a0627488a4c11e230/appcompat-1.3.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0-alpha07] /home/kamau/.gradle/caches/transforms-2/files-2.1/6e044fb0d52aaeb34e5146fbb331ce96/fragment-1.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0-alpha07] /home/kamau/.gradle/caches/transforms-2/files-2.1/6e044fb0d52aaeb34e5146fbb331ce96/fragment-1.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/ac7f1fe0f01af58327701b1ec5e5f416/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/ac7f1fe0f01af58327701b1ec5e5f416/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-alpha07] /home/kamau/.gradle/caches/transforms-2/files-2.1/6f104d3b1e7710704f12fc0eedfa5896/activity-1.2.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-alpha07] /home/kamau/.gradle/caches/transforms-2/files-2.1/6f104d3b1e7710704f12fc0eedfa5896/activity-1.2.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/dfbc13c116eea85a8c9e1552df72af22/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/dfbc13c116eea85a8c9e1552df72af22/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/b93805d359ccbbf2349f441cd43ee463/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/b93805d359ccbbf2349f441cd43ee463/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha01] /home/kamau/.gradle/caches/transforms-2/files-2.1/ad1f2c0352011a02e9f33df61207f5b8/appcompat-resources-1.3.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha01] /home/kamau/.gradle/caches/transforms-2/files-2.1/ad1f2c0352011a02e9f33df61207f5b8/appcompat-resources-1.3.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/5a3d74bca5fc118f2afd25cd8cd3d5c5/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/5a3d74bca5fc118f2afd25cd8cd3d5c5/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/552f5fedc6184cc00a6b1d9eb32bdd59/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/552f5fedc6184cc00a6b1d9eb32bdd59/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/43eadd9957d02f16cae1deebb160faae/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/43eadd9957d02f16cae1deebb160faae/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/ad0a5b6ce194b5e91e82af014068b776/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/ad0a5b6ce194b5e91e82af014068b776/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-alpha01] /home/kamau/.gradle/caches/transforms-2/files-2.1/de701201a415c3f6be45e75585090474/core-1.5.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-alpha01] /home/kamau/.gradle/caches/transforms-2/files-2.1/de701201a415c3f6be45e75585090474/core-1.5.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/ac58184b906390719ba4ec45f32be5ef/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/ac58184b906390719ba4ec45f32be5ef/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha06] /home/kamau/.gradle/caches/transforms-2/files-2.1/015d339c1e6fbd67615f0cf3fbcd6bcf/lifecycle-viewmodel-savedstate-2.3.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha06] /home/kamau/.gradle/caches/transforms-2/files-2.1/015d339c1e6fbd67615f0cf3fbcd6bcf/lifecycle-viewmodel-savedstate-2.3.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha06] /home/kamau/.gradle/caches/transforms-2/files-2.1/7d339792ac20ef3146da18c728f43a71/lifecycle-viewmodel-2.3.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha06] /home/kamau/.gradle/caches/transforms-2/files-2.1/7d339792ac20ef3146da18c728f43a71/lifecycle-viewmodel-2.3.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] /home/kamau/.gradle/caches/transforms-2/files-2.1/84e8bde954febe7cdf59c87d7c751698/savedstate-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] /home/kamau/.gradle/caches/transforms-2/files-2.1/84e8bde954febe7cdf59c87d7c751698/savedstate-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/96da85bbac13a4db81dbae5a2b4eb289/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/96da85bbac13a4db81dbae5a2b4eb289/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha06] /home/kamau/.gradle/caches/transforms-2/files-2.1/c50b7bf9dc349cd3a2fc760cdeeaaf3f/lifecycle-runtime-2.3.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha06] /home/kamau/.gradle/caches/transforms-2/files-2.1/c50b7bf9dc349cd3a2fc760cdeeaaf3f/lifecycle-runtime-2.3.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/e83bea78c0286a0f308910ff131371df/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/e83bea78c0286a0f308910ff131371df/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha06] /home/kamau/.gradle/caches/transforms-2/files-2.1/eee71e715cb8fbe81eca24ff0ec44c25/lifecycle-livedata-core-2.3.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha06] /home/kamau/.gradle/caches/transforms-2/files-2.1/eee71e715cb8fbe81eca24ff0ec44c25/lifecycle-livedata-core-2.3.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/5cf8759534de5f5f9af74b3788c62f42/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/5cf8759534de5f5f9af74b3788c62f42/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/5354edc4c971a03d62b23282046dc582/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kamau/.gradle/caches/transforms-2/files-2.1/5354edc4c971a03d62b23282046dc582/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml
+INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml
+		ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml
+		INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml
+		ADDED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml
+		INJECTED from /home/kamau/Development/Projects/Teleril/android/src/main/AndroidManifest.xml

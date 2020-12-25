@@ -1,0 +1,2 @@
+org/araizen/teleril/android/BuildConfig.java
+ org.araizen.teleril.android.BuildConfig
