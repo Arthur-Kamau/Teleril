@@ -1,15 +1,7 @@
-# Teleril 
-*  Stream media Across devices
-   without having to download the media.
-## How to 
-* Set up Hot Spot.
-* Run Web Server In Hot Spot.
-* share media files i gallery.
+## Teleril
 
-## Also learn KMM
+A jetpack compose project.
 
-
-
-### Help
-*  print tasks `./gradlew -q :tasks --all`<br/>
- to run android  `./gradlew android:build && ./gradlew android:installDebug `
+## Task. 
+1. Explore jetpack compose.
+2. share files via hotspot.
