@@ -18,6 +18,7 @@ import androidx.compose.material.icons.filled.Person
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.imageResource
+import androidx.compose.ui.unit.TextUnit
 import androidx.ui.tooling.preview.Preview
 import com.araizen.teleril.R
 import com.araizen.teleril.ui.primaryColor
@@ -53,8 +54,17 @@ fun HomePage(navController: NavController) {
            }, bodyContent = {
 
                Column {
-                   Text("Share", fontSize = 20.dp, modifier = Modifier.padding(10.dp))
+//                   Text("Share", fontSize = 20.dp, modifier = Modifier.padding(10.dp))
+                   Text("Share", modifier = Modifier.padding(10.dp), fontSize = TextUnit.Em(1.4) )
 
+                   Row(modifier = Modifier.padding(vertical = 10.dp)) {
+                       Image(
+                           imageResource(id = R.drawable.hotspot),
+                           modifier = Modifier.width(50.dp).height(50.dp).padding(horizontal = 1.dp),
+                           contentScale = ContentScale.Crop
+                       )
+                       Text("Hotspot", modifier = Modifier.padding(10.dp))
+                   }
                    Row(modifier = Modifier.padding(vertical = 10.dp)) {
                        Image(
                            imageResource(id = R.drawable.doc_send_rcv),
